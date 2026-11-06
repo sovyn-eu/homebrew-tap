@@ -3,8 +3,8 @@
 class Skiff < Formula
   desc "Throwaway Linux VMs on Apple Silicon, one per task or coding agent"
   homepage "https://github.com/sovyn-eu/skiff"
-  url "https://github.com/sovyn-eu/skiff/releases/download/v0.7.0/skiff_v0.7.0_darwin_arm64.tar.gz"
-  sha256 "60fedf45f797c12947bdb1af3e611ff8425daf60cbb6386576e525cd7e60eab9"
+  url "https://github.com/sovyn-eu/skiff/releases/download/v0.7.1/skiff_v0.7.1_darwin_arm64.tar.gz"
+  sha256 "e94ef6e6c67b804f6e2afd64c92b49f79cd2a5ffafebdf5727e0fb8ad5831010"
   license "Apache-2.0"
 
   depends_on arch: :arm64
